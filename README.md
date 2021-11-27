@@ -1,5 +1,6 @@
 # Reducing repetition in convolutional abstractive summarization
-https://www.cambridge.org/core/journals/natural-language-engineering/article/abs/reducing-repetition-in-convolutional-abstractive-summarization/2247BFF85CEFD40C1189B05CD6E9BE85
+https://doi.org/10.1017/S1351324921000309
+
 Journal of Natural Language Engineering
 
 ## Abstract
